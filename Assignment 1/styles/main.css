@@ -1,0 +1,22 @@
+article {
+	float: right;
+	max-width: 83%;
+	columns: 4;
+}
+
+article img {
+	max-width: 100%;
+}
+
+aside {
+	float: left;
+	max-width: 17%;
+}
+
+figcaption {
+	float: left;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
