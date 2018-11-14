@@ -20,3 +20,30 @@ figcaption {
 tr:nth-child(even) {
 	background-color: #f2f2f2;
 }
+
+.header h1 {
+	color: navy;
+}
+
+.objective h2 {
+	color: navy;
+}
+
+.education h2 {
+	color: navy;
+}
+
+.employment h2 {
+	color: navy;
+}
+
+.volunteer h2 {
+	color: navy;
+}
+
+
+
+footer {
+	color: navy;
+}
+
