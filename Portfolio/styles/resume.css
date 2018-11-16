@@ -1,0 +1,38 @@
+html {
+	max-width: 100%;
+}
+
+#Table_01 {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section {
+	columns: 2;
+	text-align: center;
+}
+
+.header h1 {
+	color: navy;
+}
+
+.objective h2 {
+	color: navy;
+}
+
+.education h2 {
+	color: navy;
+}
+
+.employment h2 {
+	color: navy;
+}
+
+.volunteer h2 {
+	color: navy;
+}
+
+footer {
+	color: navy;
+	text-align: center;
+}

@@ -6,3 +6,15 @@ html {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+h1 {
+	color: navy;
+}
+
+h3 {
+	color: navy;
+}
+
+section {
+	text-align: center;
+}
